@@ -1,0 +1,194 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header-section{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(#67C3F3,#5A98F2);
+}
+img{
+    width: 330px;
+    height: 150px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+ul{
+    list-style-type: none;
+    margin-top: -100px;
+    margin-left: 700px;
+    
+}
+li{
+    display: inline;
+    text-align: center;
+    padding: 30px;
+    list-style-type: none;
+    
+}
+input[type=button]{
+    width: 120px;;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 3px;
+    font-size: 16px;
+    background-color: white;
+    color: #67C3F3;
+    font-family: mulish;
+    cursor: pointer;
+    font-weight: bold;
+    line-height: 20px;
+    font-style: normal;
+    text-align: center;
+    text-decoration: none;
+}
+.row img{
+    width: 90%;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.button-exp a{
+    position: absolute;
+    margin-left: 70px;
+    margin-top: -120px;
+    font-family: mulish;
+    border: 2px solid white;
+    border-radius: 3px;
+    font-size: 16px;
+    background-color: white;
+    color: #67C3F3;
+    text-decoration: none;
+    font-weight: bold;
+    width: 120px;
+    cursor: pointer;
+    text-align: center;
+}
+p{
+    color: #ffcc2a;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 35px;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: -50px;
+
+}
+.image img{
+    width: 104.6%;
+    height: 700px;
+    margin-top: -1px;
+    margin-left: -70px;
+}
+.footer-body{
+    width: 100%;
+    height: 500px;
+    background-image: linear-gradient(#67C3F3,#5A98F2);
+    color: white;
+    font-family: Mulish;
+    margin-top: -4px;
+}
+.logo {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 40px;
+    color:#ffcc2a;
+    mix-blend-mode: normal;
+    width: 40px;
+    height: 38px;
+    margin-left: 140px;
+    margin-top:180px;
+    background: white;
+    border-radius: 50%;
+    text-align: center;
+    position: absolute;
+    
+    }
+    .logo-name{
+    
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 30px;
+        color: #ffcc2a;
+        mix-blend-mode: normal;
+        margin-left: 190px;
+        margin-top: 180px;
+        }
+        .para1{
+            font-family: Mulish;
+            font-style: normal;
+            font-weight: 300;
+            font-size: 18px;
+            line-height: 28px;
+            /* or 156% */
+            color: #FFFFFF;
+            mix-blend-mode: normal;
+            margin-left: 150px;
+            margin-right: 900px;
+            margin-top: 225px;
+            
+            }
+            .para2{
+                font-family: Mulish;
+            font-style: normal;
+            font-weight: 300;
+            font-size: 16px;
+            line-height: 28px;
+            /* identical to box height, or 175% */
+            color: #FFFFFF;
+            mix-blend-mode: normal;
+            margin-left: 150px;
+            margin-right: 900px;
+            margin-top: 285px;
+            }
+            .para3{
+                font-family: Mulish;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 30px;
+                color: #ffcc2a;
+                mix-blend-mode: normal;
+                margin-left: 700px; 
+                margin-top: 180px; 
+            }
+           
+             .para4{
+                font-family: Mulish;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 30px;
+                color: #ffcc2a;
+                mix-blend-mode: normal;
+                margin-left: 850px; 
+                margin-top: 160px; 
+            }
+            
+            .para5{
+                font-family: Mulish;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 30px;
+                color: #ffcc2a;
+                mix-blend-mode: normal;
+                margin-left:1060px;
+                margin-top:240px ;    
+            }
+            .para6{
+                font-family: Mulish;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 30px;
+                color: #ffcc2a;
+                mix-blend-mode: normal;
+                margin-left:1230px ; 
+                margin-top:300px ;    
+            }
+            
