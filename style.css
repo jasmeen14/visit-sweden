@@ -109,7 +109,7 @@ p{
     background-image: linear-gradient(#67C3F3,#5A98F2);
     color: white;
     font-family: Mulish;
-    margin-top: -4px;
+    margin-top: -5px;
 }
 .logo {
     font-style: normal;
@@ -211,6 +211,6 @@ p{
                 color: #ffcc2a;
                 mix-blend-mode: normal;
                 margin-left:1230px ; 
-                margin-top:300px ;    
+                margin-top:320px ;    
             }
             
